@@ -45,6 +45,10 @@ Vi vil bruke git for vesjonskontroll og samarbeid i kode, hvor dette lagres på 
 
 ### Hva har fungert eller ikke fungert for dere så langt?
 
+Så langt har vi ikke fått møttes mange ganger, men gruppen virker motivert og klare til å samarbeide. Den største utfordringen så langt har vært å finne et møtetidspunkt som fungerer for alle. Siden alle har forskjellige timeplaner har vi bare funnet små tidsrom der vi kan møtes.
+
+Ellers kommuniserer vi bra og ting ser ut til å fungere.
+
 ### Hvilke endringer vil dere gjøre ut i fra dette?
 
 ## Oppgave 6 - Teamavtale der dere har reflektert og diskutert rundt forventningene dere har til hverandre i teamet
