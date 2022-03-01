@@ -14,11 +14,32 @@ Vi vil lage en app som bruker værdata til å foreslå klesplagg du bør ha på 
 
 ### Hvor ofte skal teamet møtes, og holdes det spesifikke møter?
 
+Vi tenker å avholde ukentlige møter der vi møtes fysisk for å holde hverandre oppdatert på hva som skjer, tildele nye oppgaver og eventuelt diskutere. Ellers vil kommunikasjon foregå digitalt gjennom gruppechat.
+
 ### Hvordan ser teamet for seg at oppgavene og rollene i teamet skal fordeles?
+
+Vi håper på at alle kan bidra på alle områdene, men vil etter hvert foredele oppgaver mer etter ønske og ferdighet ettersom vi blir bedre kjent med hverdandres styrker og svakheter.
+
+Foreløpig ser den tenkte fordelingen slik ut:
+
+- Scrum master
+	- TODO
+- Design
+	- TODO
+- Rapport
+	- TODO
+- Programmering
+	- TODO
 
 ### Hvilke smidige metoder ser dere for dere å benytte og hvordan? (Scrum, kanban, sprinter etc.)
 
+Vi ser for oss å bruke GitHubs innebygde Kanban board, og kjøre ukentlige standupmøter når vi møtes fysisk.
+
+En sprint tenker vi at varer 3 uker og scrum master vil være **x**
+
 ### Hvilke eventuelle verktøy benyttes i teamet?
+
+Vi vil bruke git for vesjonskontroll og samarbeid i kode, hvor dette lagres på GitHub. I tillegg vil vi bruke GitHubs innebygde Kanban board, issue tracker og andre funksjoner.
 
 ## Oppgave 5 - Kort oppsummering av en retrospektiv dere har hatt.
 
