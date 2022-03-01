@@ -55,9 +55,19 @@ Ellers kommuniserer vi bra og ting ser ut til å fungere.
 
 ### Tilstedeværelse
 
+Det forventes at man møter opp på de ukentlige møtene fysisk så langt det er mulig. Hvis ikke så skal man prøve å møte opp digitalt.
+
+Hvis dette heller ikke går må gruppen finne en alternativ løsning. Hvis et gruppemedlem ikke møter to ganger på rad, ses det på som et avvik.
+
 ### Tidsbruk
+
+Tidsbruk er frivillig så lenge oppgavene som er ført opp gjennomføres innen tidsrommet som er angitt. Vi prøver å dele opp oppgavene i like deler fram til prosjektslutt slik at arbeidsmengde ikke vil variere for mye. Dette er derimot litt vanskelig og det kan fort hende at en ukes arbeid vil ta lenger enn en annen uke.
 
 ### Forventinger til enkeltes bidrag
 
+Det forventes at alle fullfører oppgavene eller blir enige med en annen om å deligere bort oppgaver gitt av Scrum master.
+
 ### Hva som skjer ved avvik eller uenigheter
+
+Ved avvik eller uenigheter må vi så klart prøve å være fleksible og ha en god tone. Man vil fortsette progresjonen som forventet. Dette betyr at hvis en person ikke gjør det hen har blitt bedt om innen tidsfristen, må dem fullføre det de skulle, inkludert de nye oppgavene de har fått innen neste tidsfrist eller snarest mulig.
 
