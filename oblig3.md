@@ -6,7 +6,7 @@ Vi har valgt case 6. Grunnen til dette er fordi vi ønsker å ha frihet til å v
 
 Vi vil lage en app som bruker værdata til å foreslå klesplagg du bør ha på deg for den kommende dagen. Vi har også ønsker om å implementere ulike funksjoner som daglig notifikasjon og widgets om vi får tid til det.
 
-## Oppgave 2 - Utkast til overordnet prosjektplan 
+## Oppgave 2 - Utkast til overordnet prosjektplan
 
 ## Oppgave 3 - Foreløpige krav til caset, hvorav ett er modellert
 
