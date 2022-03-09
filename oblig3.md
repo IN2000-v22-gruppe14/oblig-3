@@ -1,4 +1,4 @@
-# Oblig 3
+# Oblig 3 - Team 14
 
 ## Oppgave 1 - Hvilket case har dere valgt og hvorfor?
 
