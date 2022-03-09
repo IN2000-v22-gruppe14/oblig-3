@@ -2,7 +2,7 @@
 
 ## Oppgave 1 - Hvilket case har dere valgt og hvorfor?
 
-Vi har valgt case 6. Grunnen til dette er fordi vi ønsker å ha frihet til å velge et litt mer spenende prosjekt. En på gruppa hadde også en ide vi syntes var god, og vil prøve å få denne ideen godkjent.
+Vi har valgt case 6. Grunnen til dette er fordi vi ønsker å ha frihet til å velge et litt mer spenende prosjekt. Denne casen har vi fått godkjent.
 
 Vi vil lage en app som bruker værdata til å foreslå klesplagg du bør ha på deg for den kommende dagen. Vi har også ønsker om å implementere ulike funksjoner som daglig notifikasjon og widgets om vi får tid til det.
 
@@ -108,7 +108,7 @@ Hvis dette heller ikke går må gruppen finne en alternativ løsning. Hvis et gr
 
 4 timer per uke skal gå til faste møter.
 
-Ellers vil vi følge rådgivningen for arbeidsmengde satt av universitet. De gjenstående timene blir da 21 timer for arbeid.
+Ellers vil vi følge rådgivningen for arbeidsmengde satt av universitet. De gjenstående timene blir da 21 timer.
 
 Tidsbruk er frivillig så lenge oppgavene som er ført opp gjennomføres innen tidsrommet som er angitt. Vi prøver å dele opp oppgavene i like deler fram til prosjektslutt slik at arbeidsmengde ikke vil variere for mye. Dette er derimot litt vanskelig og det kan fort hende at en ukes arbeid vil ta lenger enn en annen uke. Vi oppfordrer å hjelpe hverandre om vi er ferdige med våre egne oppgaver før angitt frist.
 
