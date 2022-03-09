@@ -88,11 +88,13 @@ Vi vil bruke google docs for å samskrive på rapporten.
 
 ### Hva har fungert eller ikke fungert for dere så langt?
 
-Så langt har vi ikke fått møttes mange ganger, men gruppen virker motivert og klare til å samarbeide. Den største utfordringen så langt har vært å finne et møtetidspunkt som fungerer for alle. Siden alle har forskjellige timeplaner har vi bare funnet små tidsrom der vi kan møtes.
+Så langt har vi ikke fått møttes mange ganger, men gruppen virker motivert og klare til å samarbeide. Den største utfordringen så langt har vært å finne et møtested hvor vi kan møtes fysisk. I tillegg ønsker vi et digitalt møte hver uke som har vært vanskelig å finne møtetid for.
 
-Ellers kommuniserer vi bra og ting ser ut til å fungere.
+Ellers kommuniserer vi bra og ting ser ut til å fungere. Vi har kommet godt i gang og fått fordelt arbeidet på en strukturert måte
 
 ### Hvilke endringer vil dere gjøre ut i fra dette?
+
+Vi er tidlig i prosessen og har ikke opplevd noen særlige utfordringer enda. Det vi derimot må gjøre er å sette opp en plan for booking av møterom, da vi har hatt problemer med å få tak i dette.
 
 ## Oppgave 6 - Teamavtale der dere har reflektert og diskutert rundt forventningene dere har til hverandre i teamet
 
