@@ -30,18 +30,41 @@ Rapport er gjennomgående gjennom hele prosessen, men vil legges ekstra fokus p�
 
 #### Funksjonelle krav
 
-- Klesanbefaling basert på været for dagen
-- Gi mulighet for å velge en dato/tidsrom samt sted
+##### Må
+
+- Vise klær relevant til været på en figur
+- Vise været generelt sett
+- Kunne velge sted og dato
+- Favorittsteder
+- Pakkeliste utifra en reise
 - Universiell utforming
 - Mulighet for å angi tidspunkt for daglig notifikasjon
-- Sjekke værmeldingen
 - Ikke kræsje om 5 år
 
-### Ikke-funksjonelle krav
+##### Bør
 
-- Tilfredsstiller brukeren
-- Fokus på det visuelle
+- Velge hvor sensitiv man er til varme for mer spesifikke forslag
+- Lite strømbruk
+- Råd om tilleggsutstyr som paraply osv.
+
+##### Kan
+
+- Dele anbefaling for klær
+- Bytte språk
+- Basere klesanbefaling på valgt kjønn
+- Personlig garderobe
+
+#### Ikke-funksjonelle krav
+
+##### Må
+
 - Responsiv
+- Tilferstiller brukeren
+
+##### Bør
+
+- Fokus på det visuelle
+- Kunne velge mellom mørkt og lyst tema
 
 ## Oppgave 4 - Kort gjennomgang av hvordan dere tenker at teamarbeidet skal foregå
 
